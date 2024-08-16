@@ -63,10 +63,10 @@ Skills: BOOTSTRAP / REACT / JS / HTML / CSS
 [![PSD-To-HTML](https://github-readme-stats.vercel.app/api/pin/?username=sha2311&repo=psd-to-html&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sha2311/psd-to-html)
 [![CV](https://github-readme-stats.vercel.app/api/pin/?username=sha2311&repo=cv&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sha2311/cv)
 [![Bootstrap-project](https://github-readme-stats.vercel.app/api/pin/?username=sha2311&repo=bootstrap-project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sha2311/bootstrap-project)
-[![Weblitical](https://github-readme-stats.vercel.app/api/pin/?username=harun181&repo=weblitical&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/harun181/weblitical)
+[![hablu_project-01](https://github-readme-stats.vercel.app/api/pin/?username=sha2311&repo=hablu_project-01&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sha2311/hablu_project-01)
 
 <p align="left">
-  <a href="https://github.com/harun181?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/sha2311?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <br/>
@@ -77,7 +77,7 @@ Skills: BOOTSTRAP / REACT / JS / HTML / CSS
 
 <p align="center">
   <a href="https://github.com/sha2311">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harun181&theme=radical" alt="SHA's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sha2311&theme=radical" alt="SHA's GitHub Contribution"/>
   </a>
 </p>
 
