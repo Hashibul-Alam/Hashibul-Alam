@@ -61,8 +61,8 @@ Skills: BOOTSTRAP / REACT / JS / HTML / CSS
 ## Best Repo -
 
 [![PSD-To-HTML](https://github-readme-stats.vercel.app/api/pin/?username=sha2311&repo=psd-to-html&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sha2311/psd-to-html)
-[![Personal CV](https://github-readme-stats.vercel.app/api/pin/?username=sha2311&repo=Personal cv&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sha2311/cv)
-[![Front End Projects](https://github-readme-stats.vercel.app/api/pin/?username=sha2311&repo=front_end_projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sha2311/bootstrap-project)
+[![CV](https://github-readme-stats.vercel.app/api/pin/?username=sha2311&repo=cv&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sha2311/cv)
+[![Bootstrap-project](https://github-readme-stats.vercel.app/api/pin/?username=sha2311&repo=bootstrap-project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sha2311/bootstrap-project)
 [![Weblitical](https://github-readme-stats.vercel.app/api/pin/?username=harun181&repo=weblitical&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/harun181/weblitical)
 
 <p align="left">
