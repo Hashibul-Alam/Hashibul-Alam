@@ -1,14 +1,13 @@
 ![I am hashibub](https://github.com/sha2311/sha2311/blob/main/code.png)
 
 <h1 align="center">Hi 👋, I'm Sheikh Hashibub Alam</h1>
-<h3 align="center">Programmer | Web Designer | Content Creator</h3>
-<h4 align="center">Co-founder & Chief Operating Officer at SHA Online</h4>
+<h3 align="center">Front-End Developer | Web Designer </h3>
 
 <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=sha2311&color=red)
 
-Skills: BOOTSTRAP / REACT / JS / HTML / CSS
+Skills: Next / TypeScript / REACT / JS / Tailwind / BOOTSTRAP /  HTML / CSS
 
 </div>
 
@@ -16,7 +15,7 @@ Skills: BOOTSTRAP / REACT / JS / HTML / CSS
 
 - 👨‍💻 All of my projects are available at [https://github.com/sha2311](https://github.com/sha2311)
 
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
+- 💬 Ask me about **NextJs, ReactJS, JS, Tailwind**
 
 - 📫 How to reach me **hashibub123457@gmail.com**
 
