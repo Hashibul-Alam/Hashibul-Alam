@@ -117,6 +117,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hashibul-Alam&theme=tokyo-night&area=true" width="97%"/>
 </p>
 
+<!-- ===================== 🔥 CONTRIBUTION STREAKS ===================== -->
+<h3 align="center">🔥 Contribution Streaks</h3>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Hashibul-Alam&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&border=00AAA3&background=0D1117" alt="GitHub Streak" />
+</p>
+
 ---
 
 <!-- ========================== 🚀 ADVANCED CTA =========================== -->
